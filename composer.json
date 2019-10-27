@@ -25,7 +25,6 @@
         "2amigos/yii2-taggable-behavior": "@dev",
         "2amigos/yii2-tinymce-widget": "@dev",
         "cinghie/yii2-iconpicker": "@dev",
-        "cinghie/yii2-user-extended": "@dev",
         "cocur/slugify": "^3.2",
         "codemix/yii2-localeurls": "^1.7.1",
         "google/cloud-translate": "^1.2",
